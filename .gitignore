@@ -2,3 +2,7 @@
 node_modules/
 ./lvim/plugin/packer_compiled.lua
 packer_compiled.lua
+
+# Credential-bearing config (never commit)
+gh/hosts.yml
+raycast/config.json
